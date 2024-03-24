@@ -2,4 +2,6 @@ privet
 
 я бы без тебя пропал
 
-pypec
+pipec
+
+sovsem pipec
